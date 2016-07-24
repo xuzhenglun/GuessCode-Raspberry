@@ -1,0 +1,32 @@
+{
+	"ImportPath": "github.com/xuzhenglun/GuessTheFuckingNumber",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/hybridgroup/gobot",
+			"Comment": "v0.12.1-22-gfc31d4e",
+			"Rev": "fc31d4e3c29ad3cd565146654fecad2b80854974"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/gpio",
+			"Comment": "v0.12.1-22-gfc31d4e",
+			"Rev": "fc31d4e3c29ad3cd565146654fecad2b80854974"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/i2c",
+			"Comment": "v0.12.1-22-gfc31d4e",
+			"Rev": "fc31d4e3c29ad3cd565146654fecad2b80854974"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/raspi",
+			"Comment": "v0.12.1-22-gfc31d4e",
+			"Rev": "fc31d4e3c29ad3cd565146654fecad2b80854974"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/sysfs",
+			"Comment": "v0.12.1-22-gfc31d4e",
+			"Rev": "fc31d4e3c29ad3cd565146654fecad2b80854974"
+		}
+	]
+}
